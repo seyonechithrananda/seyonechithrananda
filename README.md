@@ -4,7 +4,7 @@
 I'm a 17 year old senior in high school working on computational drug discovery and machine learning as a Research Intern in the [Aspuru-Guzik Group](https://www.matter.toronto.edu/) at the University of Toronto and Vector Institute. Previously, I worked as a ML intern on the Applied AI team at Integrate.ai, a enterprise software company building a consumer insights platform for Fortune 500 companies.
 
 - 🔭 I’m currently working on democratizing deep learning for the life sciences with [DeepChem](https://github.com/deepchem/deepchem). I work on developing sequence and graph based models for understanding structural biology and chemistry
-- 🔬 My research is supported by the [Emergent Ventures Fellowship](https://www.mercatus.org/emergent-ventures), given by Tyler Cowen and the Mercatus Centre and funded by the Thiel Foundation.
+- 🔬 My research is supported by the [Emergent Ventures Fellowship](https://www.mercatus.org/emergent-ventures), given by Tyler Cowen at the Mercatus Centre and funded by the Thiel Foundation.
 - 🌱 I’m currently learning [NLP](https://github.com/huggingface/nlp), [Deep Graph Library](https://github.com/dmlc/dgl), and neuroscience 🧠
 - ⚙️ I use `python`, `tensorflow`, `pytorch`, `sklearn`, `pandas`, `transformers`, and `dgl`
 - 👯 I’m looking to collaborate on machine learning for chemistry, biology, and materials science

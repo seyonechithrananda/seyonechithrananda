@@ -1,7 +1,7 @@
 ### Hi there, I'm [Seyone](https://twitter.com/SeyoneC) 👋
 
 
-I'm a 17 year old senior in high school working on computational drug discovery and machine learning as a Research Intern in the [Aspuru-Guzik Group](https://www.matter.toronto.edu/) at the University of Toronto and Vector Institute. Previously, I worked as a ML intern on the Applied AI team at [Integrate.ai](https://integrate.ai/), a enterprise software company building a consumer insights platform for Fortune 500 companies.
+I'm a 17 year old senior in high school working on computational drug discovery and machine learning as a Research Intern in the [Aspuru-Guzik Group](https://www.matter.toronto.edu/) at the University of Toronto and Vector Institute. One of the projects I help develop there is [SELFIES](https://github.com/aspuru-guzik-group/selfies), a 100% robust molecular string representation for machine learning models. Previously, I worked as a ML intern on the Applied AI team at [Integrate.ai](https://integrate.ai/), a enterprise software company building a consumer insights platform for Fortune 500 companies.
 
 - 🔭 I’m currently working on democratizing deep learning for the life sciences with [DeepChem](https://github.com/deepchem/deepchem). I work on developing sequence and graph based models for understanding structural biology and chemistry
 - 🔬 My research is supported by the [Emergent Ventures Fellowship](https://www.mercatus.org/emergent-ventures), given by Tyler Cowen at the Mercatus Centre and funded by the Thiel Foundation.

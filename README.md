@@ -1,5 +1,6 @@
 ### Hi there, I'm [Seyone](https://twitter.com/SeyoneC) 👋
 
+**This is outdated, and I will update it (one day)**
 
 I'm a 17 year old senior in high school working on computational drug discovery and machine learning as a Research Intern in the [Aspuru-Guzik Group](https://www.matter.toronto.edu/) at the University of Toronto and Vector Institute. One of the projects I help develop there is [SELFIES](https://github.com/aspuru-guzik-group/selfies), a 100% robust molecular string representation for machine learning models. Previously, I worked as an ML intern on the Applied AI team at [Integrate.ai](https://integrate.ai/), an enterprise software company building a consumer insights platform for Fortune 500 companies.
 
